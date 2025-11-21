@@ -53,7 +53,7 @@ advanced.grid_strategy BTCUSDT BUY 0.01 45000 55000 5
 
 # 🧱 Project Structure
 
-![image alt]
+![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/Screenshot%20(64).png)
 
 ---
 
@@ -102,19 +102,19 @@ python market_orders.py BTCUSDT BUY 0.01
 
 python limit_orders.py BTCUSDT BUY 0.01 95000
 
-![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(67.png)
+![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(67.png))
 
 python -m advanced.stop_limit BTCUSDT BUY 0.01 98000 99000
 
-![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(68.png)
+![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(68.png))
 
 python -m advanced.oco BTCUSDT BUY 0.01 96000 98000 99000
 
-![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(69.png)
+![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(69.png))
 
 python -m advanced.twap BTCUSDT BUY 0.1 --chunks 5 --interval 1
 
-![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(69.png)
+![image alt](https://github.com/Kaif2596/Mohd-Kaif-Ansari-Binance-bot/blob/main/screenshots/Screenshot%20(69.png))
 
 python -m advanced.grid_strategy BTCUSDT BUY 0.01 45000 55000 5
 
